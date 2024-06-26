@@ -5387,6 +5387,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1942142266391900769, guid: e05cd47ab8981f64badd3bfe29af8f4e, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6670355741181093596, guid: e05cd47ab8981f64badd3bfe29af8f4e, type: 3}
       propertyPath: m_Name
       value: Gaze Interactables
